@@ -1,0 +1,2 @@
+# CT-images-reconstruction-for-multiphase-flow-in-porous-media
+X-ray computed tomography has been routinely used by the oil industry for the digital analysis of geological samples and multiphase flow in recent decades. Here, we propose a protocol with detailed codes for the interpretation and reconstruction of X-ray CT imaging for multiphase flow in porous media. The codes can be properly modified and applied to interpret the 1D, 2D, and 3D tomography results/images for digital core analysis and fluid dynamics. 
